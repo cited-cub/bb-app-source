@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <title>Block Buster - Level 1</title>
 </head>
-<body style="background-color: #F1F2C7">
+<body style="background-color: #00FF00">
 	<div  id="heading" >
          <h1 class="stroke-text">BLOCK BUSTER</h1> 
     </div>
