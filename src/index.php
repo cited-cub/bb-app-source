@@ -16,7 +16,7 @@
 
 echo "<table class='container'>
                   <tr>
-                      <td style='background-color:#222222; width:25%'><h2>&nbsp&nbsp Pod Name</h2></td>
+                      <td style='background-color:#222222; width:25%'><h2>&nbsp&nbsp Pod Name YYY</h2></td>
                       <td style='background-color:#222222'><h3>&nbsp&nbsp " . getenv("MY_POD_NAME") . "</h3></td>
                   </tr>
                   <tr>
